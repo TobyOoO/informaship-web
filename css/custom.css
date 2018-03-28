@@ -47,7 +47,7 @@ section#service{
 
 div#ship-box{
 	background-size: 50%;
-	background-image: url('/img/informaship.png');
+	background-image: url('../img/informaship.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 100%;
@@ -89,7 +89,7 @@ div#expertise-box .feature img{
 
 div#service-container{
 	background-size: 90%;
-	background-image: url('/img/informaship-text-01.png');
+	background-image: url('../img/informaship-text-01.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: #CAD8D8;
